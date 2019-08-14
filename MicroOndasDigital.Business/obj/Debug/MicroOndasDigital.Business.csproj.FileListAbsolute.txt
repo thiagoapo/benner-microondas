@@ -1,0 +1,11 @@
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\bin\Debug\MicroOndasDigital.Business.dll
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\bin\Debug\MicroOndasDigital.Business.pdb
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\bin\Debug\MicroOndasDigital.Entities.dll
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\bin\Debug\MicroOndasDigital.Entities.pdb
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\obj\Debug\MicroOndasDigital.Business.csprojAssemblyReference.cache
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\obj\Debug\MicroOndasDigital.Business.csproj.CoreCompileInputs.cache
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\obj\Debug\MicroOndasDigital.Business.csproj.CopyComplete
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\obj\Debug\MicroOndasDigital.Business.dll
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\obj\Debug\MicroOndasDigital.Business.pdb
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\bin\Debug\MicroOndasDigital.Data.dll
+C:\Users\AMcom\source\repos\MicroOndasDigital.Business\bin\Debug\MicroOndasDigital.Data.pdb
